@@ -1,0 +1,7 @@
+.item {
+  list-style: none;
+  color: rgb(177, 170, 170);
+}
+.item button {
+  margin-left: 15px;
+}
